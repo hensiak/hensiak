@@ -26,8 +26,8 @@ I'm passionate about building advanced systems for FiveM, combining backend logi
 ---
 
 ### 📊 GitHub Statistics
-![Twoje Statystyki](https://github-readme-stats.vercel.app/api?username=hensiak&show_icons=true&theme=dracula)
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=hensiak&layout=compact&theme=dracula)
+![Statistics](https://github-readme-stats.vercel.app/api?username=hensiak&show_icons=true&theme=dracula)
+![what i use](https://github-readme-stats.vercel.app/api/top-langs/?username=hensiak&layout=compact&theme=dracula)
 
 ---
 
