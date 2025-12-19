@@ -19,7 +19,7 @@ I'm passionate about building advanced systems for FiveM, combining backend logi
 ---
 
 ### 🚀 What am I currently working on?
-* 🔭 I am currently a Trial Developer on ElysiumRP.
+* 🔭 I am currently a Trial Developer on [ElizjumRP](discord.gg/elizjumrp).
 * 🎨 I design efficient, good, nice scripts with good UI.
 * 🌱 I'm learning advanced design patterns in JS to make UI even smoother.
 
